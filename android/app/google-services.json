@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935895375051",
+    "firebase_url": "https://tongproduct-4f761.firebaseio.com",
+    "project_id": "tongproduct-4f761",
+    "storage_bucket": "tongproduct-4f761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935895375051:android:767cada41c86474c",
+        "android_client_info": {
+          "package_name": "th.tot.tongproduct.tongproduct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935895375051-9a0b3d58necu57bctv36erc8mup19b3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.tot.tongproduct.tongproduct",
+            "certificate_hash": "aaa68496b18261ba5ce83412fa972b19b0c83b9d"
+          }
+        },
+        {
+          "client_id": "935895375051-c2abe6t99haet4liic9t9lu3r37s7lqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xdjE2A7MKwht2jgJxbS0Rn4TaPJ9tT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935895375051-c2abe6t99haet4liic9t9lu3r37s7lqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
